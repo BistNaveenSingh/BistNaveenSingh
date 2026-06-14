@@ -109,68 +109,6 @@
    <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
 </div>
 
----
-
-## 📚 **Key Projects & Highlights**
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎮 Checkora</h3>
-      <p><b>Chess Engine & Web Platform</b></p>
-      <p>Full-stack chess application with AI engine, real-time game logic, and interactive board UI</p>
-      <img src="https://img.shields.io/badge/Django-Python-blue?style=flat-square" alt="Django" />
-      <img src="https://img.shields.io/badge/React-JavaScript-blue?style=flat-square" alt="React" />
-    </td>
-    <td width="50%" align="center">
-      <h3>💼 Enterprise Solutions</h3>
-      <p><b>Cloud-Native Applications</b></p>
-      <p>Scalable backend architectures, database optimization, and microservices design</p>
-      <img src="https://img.shields.io/badge/Cloud-Architecture-green?style=flat-square" alt="Cloud" />
-      <img src="https://img.shields.io/badge/DevOps-Docker-green?style=flat-square" alt="DevOps" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-   <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
-</div>
-
----
-
-## 🏆 **Certifications & Credentials**
-
-<table align="center" border="0" cellpadding="15" cellspacing="0">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50" alt="GCP" /><br/>
-      <b>Google Cloud</b><br/>
-      <sub>Associate Cloud Engineer</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" height="50" alt="Azure" /><br/>
-      <b>Microsoft Azure</b><br/>
-      <sub>AZ-900 Fundamentals</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50" height="50" alt="Oracle" /><br/>
-      <b>Oracle OCI</b><br/>
-      <sub>AI Foundations 2025</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="50" height="50" alt="Programming" /><br/>
-      <b>Full-Stack</b><br/>
-      <sub>Advanced Practitioner</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-   <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
-</div>
-
----
-
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -210,27 +148,16 @@
    <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
 </div>
 
-<h2 align="left">🧑💻 LeetCode Analytics</h2>
+## 🧑‍💻 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/bunny_naveen" target="_blank">
-    <img width="60%" src="https://leetcard.jacoblin.cool/bunny_naveen?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/bunny_naveen?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 <div align="center">
    <img height="35" width="100%" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" alt="Divider" />
 </div>
 
-<!-- ==================== SPACE SHOOTER ==================== -->
-<!--
-  ⚠️ SETUP REQUIRED FOR THE SPACE SHOOTER:
-  1. In your BistNaveenSingh/BistNaveenSingh repo, create file: .github/workflows/shooter.yml
-  2. Paste the workflow from shooter-workflow.yml (saved in your workspace)
-  3. Go to Actions tab → "Generate Space Shooter Game" → "Run workflow"
-  4. Wait ~30 seconds — shooter.gif will be added to your repository!
-  5. It auto-regenerates every 12 hours.
--->
 
 <h2 align="center">🚀 Watch Me Shoot My Contributions</h2>
 
