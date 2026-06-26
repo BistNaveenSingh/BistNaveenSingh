@@ -125,7 +125,7 @@
 <p align="center">
   <a href="https://github.com/BistNaveenSingh">
     <img
-      src="https://streak-stats.demolab.com?user=BistNaveenSingh&theme=tokyonight&background=0D1117&ring=36BCF7&fire=F78240&currStreakNum=36BCF7&sideNums=C9D1D9&sideLabels=C9D1D9&border=30363D"
+      src="https://streak-stats.demolab.com?user=bistnaveensingh&theme=tokyonight&background=0D1117&ring=36BCF7&fire=F78240&currStreakNum=36BCF7&sideNums=C9D1D9&sideLabels=C9D1D9&border=30363D"
       alt="GitHub Streak"
     />
   </a>
@@ -138,7 +138,7 @@
 <p align="center">
   <a href="https://github.com/BistNaveenSingh">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=BistNaveenSingh&bg_color=0D1117&color=36BCF7&line=F78240&point=FFFFFF&area=true&area_color=36BCF7&hide_border=false&custom_title=GitHub%20Contribution%20Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=BistNaveenSingh&bg_color=0D1117&color=36BCF7&line=F78240&point=FFFFFF&area=true&area_color=36BCF7&hide_border=true&custom_title=GitHub%20Contribution%20Graph"
       alt="Contribution Graph"
     />
   </a>
